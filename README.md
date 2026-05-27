@@ -96,5 +96,5 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 ## Contact
 
 - GitHub : [github.com/Deagant](https://github.com/Deagant)
-- LinkedIn : [linkedin.com/in/rémy-miquel](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
+- LinkedIn : [Rémy miquel](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
 - Portfolio : [https://deagant.github.io](https://deagant.github.io)

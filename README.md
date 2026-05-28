@@ -1,8 +1,8 @@
 # Rémy Miquel — Cybersécurité junior · Stage 350h dès septembre 2026
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deagant.github.io-4A90E2?style=for-the-badge&logo=githubpages&logoColor=white)](https://deagant.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-remy--miquel.github.io-4A90E2?style=for-the-badge&logo=githubpages&logoColor=white)](https://remy-miquel.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rémy_Miquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
-[![Disponible](https://img.shields.io/badge/Stage_350h-Sept._2026-2ECC71?style=for-the-badge&logo=calendar&logoColor=white)](https://deagant.github.io)
+[![Disponible](https://img.shields.io/badge/Stage_350h-Sept._2026-2ECC71?style=for-the-badge&logo=calendar&logoColor=white)](https://remy-miquel.github.io)
 
 En formation **Fullstack Cybersécurité chez Jedha** (RNCP niveau 6 — Administrateur d'infrastructures sécurisées),
 je me forme en sécurité offensive et défensive en lab — pentest, analyse phishing, durcissement système.
@@ -77,12 +77,12 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 | Projet | Description | Compétences |
 |---|---|---|
-| [Rapport de pentest lab](https://github.com/Deagant/pentest-lab-report-portfolio) | Audit lab EvilCorp — 10 vulnérabilités, équipe de 4, mai 2026. SQLi, XSS stockée, FTP, brute force SSH, PrivEsc Linux, CVE-2021-3156. | Reconnaissance, exploitation, privesc, rapport PTES/CVSS |
-| [Phishing Analysis Lab](https://github.com/Deagant/phishing-analysis-lab) | Analyse d'emails suspects — headers, IP d'origine, artefacts, verdict. Simulation de campagne GoPhish. | Analyse d'incidents, Blue Team, phishing |
-| [PostgreSQL Security Hardening](https://github.com/Deagant/postgres-security-hardening) | Correction de droits excessifs — rôles, privilèges, moindre privilège, chiffrement. | Sécurité BDD, durcissement, documentation |
-| [Web Vulnerabilities Labs](https://github.com/Deagant/web-vulnerabilities-labs) | Fiches XSS réfléchie, SSTI, SQLi, Command Injection — mécanisme, impact, remédiation. | Sécurité web, analyse applicative |
-| [Linux PrivEsc Notes](https://github.com/Deagant/linux-privesc-notes) | Notes SUID, sudo, cron, permissions — erreurs de config et durcissement associé. | Sécurité système Linux |
-| [Blue Team Tools](https://github.com/Deagant/blue-team-tools) | Analyseur de logs Apache en Python — détection XSS, SQLi, Path Traversal, brute-force. | Python, Blue Team, détection d'attaques |
+| [Rapport de pentest lab](https://github.com/Remy-Miquel/pentest-lab-report-portfolio) | Audit lab EvilCorp — 10 vulnérabilités, équipe de 4, mai 2026. SQLi, XSS stockée, FTP, brute force SSH, PrivEsc Linux, CVE-2021-3156. | Reconnaissance, exploitation, privesc, rapport PTES/CVSS |
+| [Phishing Analysis Lab](https://github.com/Remy-Miquel/phishing-analysis-lab) | Analyse d'emails suspects — headers, IP d'origine, artefacts, verdict. Simulation de campagne GoPhish. | Analyse d'incidents, Blue Team, phishing |
+| [PostgreSQL Security Hardening](https://github.com/Remy-Miquel/postgres-security-hardening) | Correction de droits excessifs — rôles, privilèges, moindre privilège, chiffrement. | Sécurité BDD, durcissement, documentation |
+| [Web Vulnerabilities Labs](https://github.com/Remy-Miquel/web-vulnerabilities-labs) | Fiches XSS réfléchie, SSTI, SQLi, Command Injection — mécanisme, impact, remédiation. | Sécurité web, analyse applicative |
+| [Linux PrivEsc Notes](https://github.com/Remy-Miquel/linux-privesc-notes) | Notes SUID, sudo, cron, permissions — erreurs de config et durcissement associé. | Sécurité système Linux |
+| [Blue Team Tools](https://github.com/Remy-Miquel/blue-team-tools) | Analyseur de logs Apache en Python — détection XSS, SQLi, Path Traversal, brute-force. | Python, Blue Team, détection d'attaques |
 
 ---
 
@@ -109,6 +109,6 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deagant.github.io-4A90E2?style=flat-square&logo=githubpages&logoColor=white)](https://deagant.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-remy--miquel.github.io-4A90E2?style=flat-square&logo=githubpages&logoColor=white)](https://remy-miquel.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rémy_Miquel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Deagant-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deagant)
+[![GitHub](https://img.shields.io/badge/GitHub-Remy--Miquel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Remy-Miquel)

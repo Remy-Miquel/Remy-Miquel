@@ -1,5 +1,9 @@
 # Rémy Miquel — Cybersécurité junior · Stage 350h dès septembre 2026
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-deagant.github.io-4A90E2?style=for-the-badge&logo=githubpages&logoColor=white)](https://deagant.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rémy_Miquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
+[![Disponible](https://img.shields.io/badge/Stage_350h-Sept._2026-2ECC71?style=for-the-badge&logo=calendar&logoColor=white)](https://deagant.github.io)
+
 En formation **Fullstack Cybersécurité chez Jedha** (RNCP niveau 6 — Administrateur d'infrastructures sécurisées),
 je me forme en sécurité offensive et défensive en lab — pentest, analyse phishing, durcissement système.
 
@@ -57,10 +61,15 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 ### Outils
 
-- Nmap · Nikto · Burp Suite
-- Hydra · SSH · SCP
-- Python (scripts d'analyse)
-- Git · GitHub
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-CC0000?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-333333?style=flat-square&logoColor=white)
 
 ---
 
@@ -79,9 +88,14 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 ## Plateformes d'entraînement
 
-- **Root-Me** : 330 pts · 32 challenges
-- **TryHackMe** : [attestation THM-3NYCCZUKXU](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3NYCCZUKXU.pdf)
-- **Hack The Box** : 6 flags · 1 CTF
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+[Attestation THM-3NYCCZUKXU](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3NYCCZUKXU.pdf)
+
+![Root-Me](https://img.shields.io/badge/Root--Me-black?style=flat-square&logoColor=white)
+330 pts · 32 challenges
+
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+6 flags · 1 CTF
 
 ---
 
@@ -95,6 +109,6 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 ## Contact
 
-- GitHub : [github.com/Deagant](https://github.com/Deagant)
-- LinkedIn : [Rémy miquel](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
-- Portfolio : [https://deagant.github.io](https://deagant.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deagant.github.io-4A90E2?style=flat-square&logo=githubpages&logoColor=white)](https://deagant.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rémy_Miquel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Deagant-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deagant)

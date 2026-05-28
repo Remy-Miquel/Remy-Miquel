@@ -79,7 +79,7 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 ## Plateformes d'entraînement
 
-- **Root-Me** : 285 pts · 30 challenges
+- **Root-Me** : 330 pts · 32 challenges
 - **TryHackMe** : [attestation THM-3NYCCZUKXU](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3NYCCZUKXU.pdf)
 - **Hack The Box** : 5 flags · 1 CTF
 

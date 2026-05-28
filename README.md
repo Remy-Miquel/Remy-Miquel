@@ -77,6 +77,7 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 | Projet | Description | Compétences |
 |---|---|---|
+| [USB Physical Pentest Lab](https://github.com/Remy-Miquel/usb-physical-pentest) | Raspberry Pi Zero 2W en USB Gadget composite (HID + Mass Storage). Injection HID, recon cross-platform, scheduled task, cleanup automatique. Rapport CVSS 3.1 sur cible réelle. | USB HID, libcomposite, Python, PowerShell, Bash, rapport pentest physique |
 | [Rapport de pentest lab](https://github.com/Remy-Miquel/pentest-lab-report-portfolio) | Audit lab EvilCorp — 10 vulnérabilités, équipe de 4, mai 2026. SQLi, XSS stockée, FTP, brute force SSH, PrivEsc Linux, CVE-2021-3156. | Reconnaissance, exploitation, privesc, rapport PTES/CVSS |
 | [Phishing Analysis Lab](https://github.com/Remy-Miquel/phishing-analysis-lab) | Analyse d'emails suspects — headers, IP d'origine, artefacts, verdict. Simulation de campagne GoPhish. | Analyse d'incidents, Blue Team, phishing |
 | [PostgreSQL Security Hardening](https://github.com/Remy-Miquel/postgres-security-hardening) | Correction de droits excessifs — rôles, privilèges, moindre privilège, chiffrement. | Sécurité BDD, durcissement, documentation |

@@ -36,6 +36,8 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 ---
 
+Reconversion complète depuis la boulangerie artisanale — aucun background IT avant Jedha. Les vulnérabilités applicatives m'ont accroché dès le premier lab : c'est du concret, du visible, du cassable.
+
 ## Compétences techniques
 
 ### Systèmes & Réseau

@@ -63,13 +63,11 @@ Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protoc
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-CC0000?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-333333?style=flat-square&logoColor=white)
+
+Autres outils utilisés en lab : Bash, Git, Hydra, Nikto, sqlmap (ponctuellement).
 
 ---
 

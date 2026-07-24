@@ -16,10 +16,10 @@ Je documente ici mes exercices pratiques issus de labs autorisés, de la formati
 Stage de 350h dès **septembre 2026**, puis poste junior.
 
 Cibles visées :
-- SOC junior · analyse d'incidents
-- Support infrastructure sécurisée
-- Administration systèmes/réseaux junior
 - Pentest encadré en entreprise
+- Test d'intrusion web et infrastructure
+- Administration systèmes/réseaux junior
+- Support infrastructure sécurisée
 
 ---
 
@@ -52,6 +52,7 @@ Reconversion complète depuis la boulangerie artisanale — aucun background IT 
 - Reconnaissance · Énumération
 - Exploitation web contrôlée (SQLi, XSS réfléchie, SSTI)
 - Brute force encadré (SSH, Hydra)
+- Active Directory en lab — LLMNR/NBT-NS, relais NTLM, pass-the-hash, Kerberoasting, cartographie BloodHound (Responder, impacket, bloodhound-python)
 - Élévation de privilèges Linux — SUID, cron, sudoers, CVE-2021-3156
 - Rédaction de rapport (PTES, OWASP, CVSS 3.1)
 
@@ -79,6 +80,7 @@ Autres outils utilisés en lab : Bash, Git, Hydra, Nikto, sqlmap (ponctuellement
 |---|---|---|
 | [USB Physical Pentest Lab](https://github.com/Remy-Miquel/usb-physical-pentest) | Raspberry Pi Zero 2W en USB Gadget composite (HID + Mass Storage). Injection HID, recon cross-platform, scheduled task, cleanup automatique. Rapport CVSS 3.1 sur cible réelle. | USB HID, libcomposite, Python, PowerShell, Bash, rapport pentest physique |
 | [Rapport de pentest lab](https://github.com/Remy-Miquel/pentest-lab-report-portfolio) | Audit lab EvilCorp — 10 vulnérabilités, équipe de 4, mai 2026. SQLi, XSS stockée, FTP, brute force SSH, PrivEsc Linux, CVE-2021-3156. | Reconnaissance, exploitation, privesc, rapport PTES/CVSS |
+| [Active Directory — Labs offensifs](https://github.com/Remy-Miquel/active-directory-offensive-labs) | Chaîne d'attaque AD en lab GNS3 : empoisonnement LLMNR/NBT-NS, capture NetNTLMv2, relais NTLM, pass-the-hash, cartographie BloodHound et Kerberoasting. Contre-mesures documentées. | Responder, impacket (ntlmrelayx, secretsdump, GetUserSPNs), BloodHound, hashcat |
 | [Phishing Analysis Lab](https://github.com/Remy-Miquel/phishing-analysis-lab) | Analyse d'emails suspects — headers, IP d'origine, artefacts, verdict. Simulation de campagne GoPhish. | Analyse d'incidents, Blue Team, phishing |
 | [PostgreSQL Security Hardening](https://github.com/Remy-Miquel/postgres-security-hardening) | Correction de droits excessifs — rôles, privilèges, moindre privilège, chiffrement. | Sécurité BDD, durcissement, documentation |
 | [Web Vulnerabilities Labs](https://github.com/Remy-Miquel/web-vulnerabilities-labs) | Fiches XSS réfléchie, SSTI, SQLi, Command Injection — mécanisme, impact, remédiation. | Sécurité web, analyse applicative |
@@ -93,7 +95,7 @@ Autres outils utilisés en lab : Bash, Git, Hydra, Nikto, sqlmap (ponctuellement
 [Attestation THM-3NYCCZUKXU](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3NYCCZUKXU.pdf)
 
 ![Root-Me](https://img.shields.io/badge/Root--Me-black?style=flat-square&logoColor=white)
-405 pts · 35 challenges
+435 pts · 37 challenges
 
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 6 flags · 1 CTF

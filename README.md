@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rémy_Miquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9my-miquel-4b79aa2b1/)
 [![Disponible](https://img.shields.io/badge/Stage_350h-Sept._2026-2ECC71?style=for-the-badge&logo=calendar&logoColor=white)](https://remy-miquel.github.io)
 
-En formation **Fullstack Cybersécurité chez Jedha** (RNCP niveau 6 — Administrateur d'infrastructures sécurisées),
-je me forme en sécurité offensive et défensive en lab — pentest, analyse phishing, durcissement système.
+Formation **Fullstack Cybersécurité de Jedha** terminée en août 2026 (RNCP niveau 6 — Administrateur d'infrastructures sécurisées).
+Je travaille la sécurité offensive et défensive en lab — pentest, analyse phishing, durcissement système.
 
 Je documente ici mes exercices pratiques issus de labs autorisés, de la formation et de plateformes d'entraînement.
 
@@ -30,7 +30,7 @@ Cibles visées :
 **RNCP niveau 6 · Administrateur d'infrastructures sécurisées**  
 2025 — 12 août 2026
 
-Essential terminé avec attestation · Fullstack en cours · Stage 350h dès septembre 2026
+Essential et Fullstack terminés, attestations obtenues. La soutenance du titre a lieu après le stage de 350h — c'est la dernière étape.
 
 Programme : sécurité systèmes/réseaux, pentest web et infrastructure, protocoles réseau, Linux, méthodologie de test, documentation technique, rapport de vulnérabilités, propositions de remédiation.
 

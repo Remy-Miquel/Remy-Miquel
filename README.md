@@ -45,6 +45,8 @@ Reconversion complète depuis la boulangerie artisanale — aucun background IT 
 - Linux (Kali, Ubuntu) · Bash
 - TCP/IP · DNS · HTTP · SSH · FTP · SMB · Telnet
 - Subnetting · services réseau
+- Segmentation VLAN · DMZ · pfSense
+- VPN IPsec site-à-site · ACL Cisco (IOU)
 - Gestion des permissions Linux
 
 ### Sécurité offensive en lab
@@ -58,6 +60,7 @@ Reconversion complète depuis la boulangerie artisanale — aucun background IT 
 
 ### Sécurité défensive
 
+- Supervision Wazuh — déploiement d'agents, collecte de journaux, contrôle d'intégrité (FIM)
 - Analyse de logs Apache — détection XSS, SQLi, Path Traversal, brute-force
 - Analyse phishing — headers, IP d'origine, artefacts, verdict
 - Durcissement PostgreSQL — rôles, privilèges, moindre privilège
@@ -78,6 +81,7 @@ Autres outils utilisés en lab : Bash, Git, Hydra, Nikto, sqlmap (ponctuellement
 
 | Projet | Description | Compétences |
 |---|---|---|
+| [Cabinet Médical ATCHOUM — infrastructure multi-sites](https://github.com/Remy-Miquel/projet-final-infra-medicale) | Projet final Jedha, équipe de 5. Infrastructure médicale segmentée sous GNS3 : DMZ, réseaux internes, données isolées, deux pfSense reliés par VPN IPsec, Active Directory, supervision Wazuh. Ma part : déploiement et réglage de Wazuh, règles de filtrage pfSense, ACL Cisco IOU, segmentation. Audit croisé entre équipes, remédiation priorisée et chiffrée. | pfSense, VLAN, IPsec, ACL Cisco, Wazuh/SIEM, CVSS 3.1 |
 | [USB Physical Pentest Lab](https://github.com/Remy-Miquel/usb-physical-pentest) | Raspberry Pi Zero 2W en USB Gadget composite (HID + Mass Storage). Injection HID, recon cross-platform, scheduled task, cleanup automatique. Rapport CVSS 3.1 sur cible réelle. | USB HID, libcomposite, Python, PowerShell, Bash, rapport pentest physique |
 | [Rapport de pentest lab](https://github.com/Remy-Miquel/pentest-lab-report-portfolio) | Audit lab EvilCorp — 10 vulnérabilités, équipe de 4, mai 2026. SQLi, XSS stockée, FTP, brute force SSH, PrivEsc Linux, CVE-2021-3156. | Reconnaissance, exploitation, privesc, rapport PTES/CVSS |
 | [Cylentra Robotics — Audit red + blue](https://github.com/Remy-Miquel/cylentra-security-audit) | Audit black box d'un serveur de prod (lab Jedha) : backdoor ProFTPD menant à root, MariaDB sans mot de passe, JWT alg:none, élévation de privilèges locale. Rapport CVSS 3.1 et règles de détection Wazuh. | Pentest web/système, post-exploitation, CVSS, Wazuh/SIEM |
